@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BitcoinShop](https://bitcoinshop.tech/)
 
-- 🌱 I’m currently learning **Microservices Architecture**
+- 🌱 I’m currently learning **Microservice Architecture**
 
 - 👯 I’m looking to collaborate on **Open sources**
 
