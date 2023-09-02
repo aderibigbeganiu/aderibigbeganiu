@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=aderibigbeganiu&label=Profile%20views&color=0e75b6&style=flat" alt="aderibigbeganiu" /> </p>-->
 
-- 🔭 I’m currently working on [BitcoinShop](https://bitcoinshop.tech/)
+<!--- 🔭 I’m currently working on [BitcoinShop](https://bitcoinshop.tech/)-->
 
 - 🌱 I’m currently learning **Microservice Architecture**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aderibigbeganiu@gmail.com**
 
-- ⚡ Fun fact **I love web development**
+- ⚡ Fun fact **Honey never spoils**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
